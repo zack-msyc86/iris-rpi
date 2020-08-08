@@ -1,0 +1,446 @@
+{"ac:off": [3424, 1915, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 10808, 3424, 1915, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 398, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 398, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 10808, 3424, 1915, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 398],
+ "ac:on": [3424, 1915, 398, 504, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 398, 390, 352, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 10808, 3424, 1915, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 10808, 3424, 1915, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 398],
+ "light:off": [2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807],
+ "light:on": [2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 105, 81925, 352, 1090, 629, 2701, 352, 2701, 352, 1915, 629, 1915, 629, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 629, 1915, 629, 1915, 807, 1090, 629]}
+pi@raspberrypi:~/ir_remote_controll $ nano irrp.py
+Use "fg" to return to nano.
+
+[1]+  Stopped                 nano irrp.py
+pi@raspberrypi:~/ir_remote_controll $ fg
+nano irrp.py
+pi@raspberrypi:~/ir_remote_controll $ nano irrp.py
+pi@raspberrypi:~/ir_remote_controll $ python3 irrp.py -p -g17 -f codes light:on
+['light:on']
+17
+codes
+pi@raspberrypi:~/ir_remote_controll $ python3 irrp.py -p -g17 -f codes light:on light:off
+['light:on', 'light:off']
+17
+codes
+^[[A^[[Api@raspberrypi:~/ir_remote_controll $ python3 irrp.py -p -g17 -f codes light:on
+['light:on']
+17
+codes
+pi@raspberrypi:~/ir_remote_controll $ python3 irrp.py -p -g17 -f codes light:on light:off
+['light:on', 'light:off']
+17
+codes
+pi@raspberrypi:~/ir_remote_controll $ python3 irrp.py -p -g17 -f codes light:on light:off
+['light:on', 'light:off']
+17
+codes
+pi@raspberrypi:~/ir_remote_controll $ python3 irrp.py -p -g17 -f codes light:on
+['light:on']
+17
+codes
+pi@raspberrypi:~/ir_remote_controll $ cd
+pi@raspberrypi:~ $ git clone git@github.com:zack-msyc86/iris.git
+Cloning into 'iris'...
+The authenticity of host 'github.com (52.192.72.89)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,52.192.72.89' (RSA) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+pi@raspberrypi:~ $ ls -a
+.   Adafruit_Python_DHT  .bash_logout  .cache  ir_remote_controll  .profile          .ssh
+..  .bash_history        .bashrc       .gnupg  .local              .selected_editor  test.py
+pi@raspberrypi:~ $ cd .ssh
+pi@raspberrypi:~/.ssh $ ls
+known_hosts
+pi@raspberrypi:~/.ssh $ ssh-keygen -t ed25519
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (/home/pi/.ssh/id_ed25519):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /home/pi/.ssh/id_ed25519.
+Your public key has been saved in /home/pi/.ssh/id_ed25519.pub.
+The key fingerprint is:
+SHA256:wQtNohidfwWQvOZs9NAmwXMBxjDoEbj5ygIW6g5kDuI pi@raspberrypi
+The key's randomart image is:
++--[ED25519 256]--+
+| .o+o*=++o       |
+|. ooo+B=. .      |
+| +.....*+.       |
+|o..   B.+o       |
+|++.  = *S        |
+|X..   + .        |
+|*E   .           |
+|+o               |
+|o.               |
++----[SHA256]-----+
+pi@raspberrypi:~/.ssh $ cat
+id_ed25519      id_ed25519.pub  known_hosts
+pi@raspberrypi:~/.ssh $ cat id_ed25519.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILUUrqoaMG5/a1BIl2HJ0DitFTmAfaviQiD4HM3ixGVK pi@raspberrypi
+pi@raspberrypi:~/.ssh $ cd
+pi@raspberrypi:~ $ git clone git@github.com:zack-msyc86/iris.git
+Cloning into 'iris'...
+Warning: Permanently added the RSA host key for IP address '13.114.40.48' to the list of known hosts.
+remote: Enumerating objects: 151, done.
+remote: Counting objects: 100% (151/151), done.
+remote: Compressing objects: 100% (107/107), done.
+remote: Total 151 (delta 21), reused 151 (delta 21), pack-reused 0
+Receiving objects: 100% (151/151), 117.11 KiB | 312.00 KiB/s, done.
+Resolving deltas: 100% (21/21), done.
+pi@raspberrypi:~ $ ls
+Adafruit_Python_DHT  iris  ir_remote_controll  test.py
+pi@raspberrypi:~ $ cd iris/
+pi@raspberrypi:~/iris $ ls
+api  docker-compose.yml  web
+pi@raspberrypi:~/iris $ cd
+pi@raspberrypi:~ $ git clone git@github.com:zack-msyc86/iris-rpi.git
+Cloning into 'iris-rpi'...
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 5 (delta 0), reused 5 (delta 0), pack-reused 0
+Receiving objects: 100% (5/5), 4.22 KiB | 1.41 MiB/s, done.
+pi@raspberrypi:~ $ ls
+Adafruit_Python_DHT  iris  iris-rpi  ir_remote_controll  test.py
+pi@raspberrypi:~ $ rm  iris -R
+rm: remove write-protected regular file 'iris/.git/objects/pack/pack-44b03a5852b7722dbb57a39c2a3a6005949cabc2.idx'? ^X^C
+pi@raspberrypi:~ $ rm  iris -Rf
+pi@raspberrypi:~ $ ls
+Adafruit_Python_DHT  iris-rpi  ir_remote_controll  test.py
+pi@raspberrypi:~ $ cd iris-rpi/
+pi@raspberrypi:~/iris-rpi $ ls
+py  rc.rb
+pi@raspberrypi:~/iris-rpi $ ruby -v
+-bash: ruby: command not found
+pi@raspberrypi:~/iris-rpi $ cd
+pi@raspberrypi:~ $ git clone git://github.com/sstephenson/rbenv.git .rbenv
+Cloning into '.rbenv'...
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 2855 (delta 1), reused 1 (delta 0), pack-reused 2847
+Receiving objects: 100% (2855/2855), 551.85 KiB | 981.00 KiB/s, done.
+Resolving deltas: 100% (1782/1782), done.
+pi@raspberrypi:~ $ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+pi@raspberrypi:~ $ cd .rbenv/
+pi@raspberrypi:~/.rbenv $ mkdir plugins
+pi@raspberrypi:~/.rbenv $
+pi@raspberrypi:~/.rbenv $
+pi@raspberrypi:~/.rbenv $
+pi@raspberrypi:~/.rbenv $ mkdir .plugins
+pi@raspberrypi:~/.rbenv $ ls
+bin  CODE_OF_CONDUCT.md  completions  libexec  LICENSE  plugins  rbenv.d  README.md  src  test
+pi@raspberrypi:~/.rbenv $ rm plugins/ -d
+pi@raspberrypi:~/.rbenv $ ls
+bin  CODE_OF_CONDUCT.md  completions  libexec  LICENSE  rbenv.d  README.md  src  test
+pi@raspberrypi:~/.rbenv $ ls -a
+.   bin                 completions  .github     libexec  .plugins  README.md  test
+..  CODE_OF_CONDUCT.md  .git         .gitignore  LICENSE  rbenv.d   src        .vimrc
+pi@raspberrypi:~/.rbenv $ cd .plugins/
+pi@raspberrypi:~/.rbenv/.plugins $ git clone git://github.com/sstephenson/ruby-build.git
+Cloning into 'ruby-build'...
+remote: Enumerating objects: 52, done.
+remote: Counting objects: 100% (52/52), done.
+remote: Compressing objects: 100% (35/35), done.
+remote: Total 11047 (delta 24), reused 32 (delta 13), pack-reused 10995
+Receiving objects: 100% (11047/11047), 2.34 MiB | 644.00 KiB/s, done.
+Resolving deltas: 100% (7282/7282), done.
+pi@raspberrypi:~/.rbenv/.plugins $ cd
+pi@raspberrypi:~ $ source .bash_profile
+-bash: rbenv: command not found
+pi@raspberrypi:~ $ cat .bash_profile
+eval "$(rbenv init -)"
+pi@raspberrypi:~ $ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
+pi@raspberrypi:~ $ rm .bash_profile
+pi@raspberrypi:~ $ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
+pi@raspberrypi:~ $ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+pi@raspberrypi:~ $ source .bash_profile
+pi@raspberrypi:~ $ rbenv
+rbenv 1.1.2-32-gd4d69ed
+Usage: rbenv <command> [<args>]
+
+Some useful rbenv commands are:
+   commands    List all available rbenv commands
+   local       Set or show the local application-specific Ruby version
+   global      Set or show the global Ruby version
+   shell       Set or show the shell-specific Ruby version
+   rehash      Rehash rbenv shims (run this after installing executables)
+   version     Show the current Ruby version and its origin
+   versions    List installed Ruby versions
+   which       Display the full path to an executable
+   whence      List all Ruby versions that contain the given executable
+
+See `rbenv help <command>' for information on a specific command.
+For full documentation, see: https://github.com/rbenv/rbenv#readme
+pi@raspberrypi:~ $ sudo apt install autoconf libssl-dev libyaml-dev bison build-essential libreadline6-dev libncurses5-dev -y
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Note, selecting 'libreadline-dev' instead of 'libreadline6-dev'
+build-essential is already the newest version (12.6).
+The following package was automatically installed and is no longer required:
+  rpi-eeprom-images
+Use 'sudo apt autoremove' to remove it.
+The following additional packages will be installed:
+  automake autotools-dev libbison-dev libncurses-dev libsigsegv2 libyaml-0-2 m4
+Suggested packages:
+  autoconf-archive gnu-standards autoconf-doc libtool gettext bison-doc ncurses-doc readline-doc libssl-doc
+  libyaml-doc m4-doc
+The following NEW packages will be installed:
+  autoconf automake autotools-dev bison libbison-dev libncurses-dev libncurses5-dev libreadline-dev libsigsegv2
+  libssl-dev libyaml-0-2 libyaml-dev m4
+0 upgraded, 13 newly installed, 0 to remove and 0 not upgraded.
+Need to get 4,794 kB of archives.
+After this operation, 15.5 MB of additional disk space will be used.
+Get:1 http://archive.raspberrypi.org/debian buster/main armhf libssl-dev armhf 1.1.1d-0+deb10u3+rpt1 [1,583 kB]
+Get:2 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf libsigsegv2 armhf 2.12-2 [32.3 kB]
+Get:3 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf m4 armhf 1.4.18-2 [185 kB]
+Get:4 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf autoconf all 2.69-11 [341 kB]
+Get:5 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf autotools-dev all 20180224.1 [77.0 kB]
+Get:6 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf automake all 1:1.16.1-4 [771 kB]
+Get:7 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf libbison-dev armhf 2:3.3.2.dfsg-1 [500 kB]
+Get:8 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf bison armhf 2:3.3.2.dfsg-1 [829 kB]
+Get:9 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf libncurses-dev armhf 6.1+20181013-2+deb10u2 [278 kB]
+Get:10 http://raspbian.raspberrypi.org/raspbian buster/main armhf libncurses5-dev armhf 6.1+20181013-2+deb10u2 [948 B]
+Get:11 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf libreadline-dev armhf 7.0-5 [110 kB]
+Get:12 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf libyaml-0-2 armhf 0.2.1-1 [38.8 kB]
+Get:13 http://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian buster/main armhf libyaml-dev armhf 0.2.1-1 [48.1 kB]
+Fetched 4,794 kB in 8s (629 kB/s)
+Selecting previously unselected package libsigsegv2:armhf.
+(Reading database ... 42306 files and directories currently installed.)
+Preparing to unpack .../00-libsigsegv2_2.12-2_armhf.deb ...
+Unpacking libsigsegv2:armhf (2.12-2) ...
+Selecting previously unselected package m4.
+Preparing to unpack .../01-m4_1.4.18-2_armhf.deb ...
+Unpacking m4 (1.4.18-2) ...
+Selecting previously unselected package autoconf.
+Preparing to unpack .../02-autoconf_2.69-11_all.deb ...
+Unpacking autoconf (2.69-11) ...
+Selecting previously unselected package autotools-dev.
+Preparing to unpack .../03-autotools-dev_20180224.1_all.deb ...
+Unpacking autotools-dev (20180224.1) ...
+Selecting previously unselected package automake.
+Preparing to unpack .../04-automake_1%3a1.16.1-4_all.deb ...
+Unpacking automake (1:1.16.1-4) ...
+Selecting previously unselected package libbison-dev:armhf.
+Preparing to unpack .../05-libbison-dev_2%3a3.3.2.dfsg-1_armhf.deb ...
+Unpacking libbison-dev:armhf (2:3.3.2.dfsg-1) ...
+Selecting previously unselected package bison.
+Preparing to unpack .../06-bison_2%3a3.3.2.dfsg-1_armhf.deb ...
+Unpacking bison (2:3.3.2.dfsg-1) ...
+Selecting previously unselected package libncurses-dev:armhf.
+Preparing to unpack .../07-libncurses-dev_6.1+20181013-2+deb10u2_armhf.deb ...
+Unpacking libncurses-dev:armhf (6.1+20181013-2+deb10u2) ...
+Selecting previously unselected package libncurses5-dev:armhf.
+Preparing to unpack .../08-libncurses5-dev_6.1+20181013-2+deb10u2_armhf.deb ...
+Unpacking libncurses5-dev:armhf (6.1+20181013-2+deb10u2) ...
+Selecting previously unselected package libreadline-dev:armhf.
+Preparing to unpack .../09-libreadline-dev_7.0-5_armhf.deb ...
+Unpacking libreadline-dev:armhf (7.0-5) ...
+Selecting previously unselected package libssl-dev:armhf.
+Preparing to unpack .../10-libssl-dev_1.1.1d-0+deb10u3+rpt1_armhf.deb ...
+Unpacking libssl-dev:armhf (1.1.1d-0+deb10u3+rpt1) ...
+Selecting previously unselected package libyaml-0-2:armhf.
+Preparing to unpack .../11-libyaml-0-2_0.2.1-1_armhf.deb ...
+Unpacking libyaml-0-2:armhf (0.2.1-1) ...
+Selecting previously unselected package libyaml-dev:armhf.
+Preparing to unpack .../12-libyaml-dev_0.2.1-1_armhf.deb ...
+Unpacking libyaml-dev:armhf (0.2.1-1) ...
+Setting up libncurses-dev:armhf (6.1+20181013-2+deb10u2) ...
+Setting up libbison-dev:armhf (2:3.3.2.dfsg-1) ...
+Setting up libyaml-0-2:armhf (0.2.1-1) ...
+Setting up libreadline-dev:armhf (7.0-5) ...
+Setting up autotools-dev (20180224.1) ...
+Setting up libsigsegv2:armhf (2.12-2) ...
+Setting up libssl-dev:armhf (1.1.1d-0+deb10u3+rpt1) ...
+Setting up libncurses5-dev:armhf (6.1+20181013-2+deb10u2) ...
+Setting up libyaml-dev:armhf (0.2.1-1) ...
+Setting up m4 (1.4.18-2) ...
+Setting up autoconf (2.69-11) ...
+Setting up bison (2:3.3.2.dfsg-1) ...
+update-alternatives: using /usr/bin/bison.yacc to provide /usr/bin/yacc (yacc) in auto mode
+Setting up automake (1:1.16.1-4) ...
+update-alternatives: using /usr/bin/automake-1.16 to provide /usr/bin/automake (automake) in auto mode
+Processing triggers for man-db (2.8.5-2) ...
+Processing triggers for install-info (6.5.0.dfsg.1-4+b1) ...
+Processing triggers for libc-bin (2.28-10+rpi1) ...
+pi@raspberrypi:~ $ rbenv  install -v
+rbenv: no such command `install'
+pi@raspberrypi:~ $ rbenv
+rbenv 1.1.2-32-gd4d69ed
+Usage: rbenv <command> [<args>]
+
+Some useful rbenv commands are:
+   commands    List all available rbenv commands
+   local       Set or show the local application-specific Ruby version
+   global      Set or show the global Ruby version
+   shell       Set or show the shell-specific Ruby version
+   rehash      Rehash rbenv shims (run this after installing executables)
+   version     Show the current Ruby version and its origin
+   versions    List installed Ruby versions
+   which       Display the full path to an executable
+   whence      List all Ruby versions that contain the given executable
+
+See `rbenv help <command>' for information on a specific command.
+For full documentation, see: https://github.com/rbenv/rbenv#readme
+pi@raspberrypi:~ $ rbenv versions
+Warning: no Ruby detected on the system
+pi@raspberrypi:~ $ rbenv version
+system
+pi@raspberrypi:~ $ rbenv 2.7.1
+rbenv: no such command `2.7.1'
+pi@raspberrypi:~ $ rbenv install -l
+rbenv: no such command `install'
+pi@raspberrypi:~ $ git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+Cloning into '/home/pi/.rbenv/plugins/ruby-build'...
+remote: Enumerating objects: 52, done.
+remote: Counting objects: 100% (52/52), done.
+remote: Compressing objects: 100% (35/35), done.
+remote: Total 11047 (delta 24), reused 32 (delta 13), pack-reused 10995
+Receiving objects: 100% (11047/11047), 2.34 MiB | 1.84 MiB/s, done.
+Resolving deltas: 100% (7282/7282), done.
+pi@raspberrypi:~ $ rbenv install -v
+Usage: rbenv install [-f|-s] [-kpv] <version>
+       rbenv install [-f|-s] [-kpv] <definition-file>
+       rbenv install -l|--list
+       rbenv install --version
+
+  -l/--list          List latest stable versions for each Ruby
+  -L/--list-all      List all local versions
+  -f/--force         Install even if the version appears to be installed already
+  -s/--skip-existing Skip if the version appears to be installed already
+
+  ruby-build options:
+
+  -k/--keep          Keep source tree in $RBENV_BUILD_ROOT after installation
+                     (defaults to $RBENV_ROOT/sources)
+  -p/--patch         Apply a patch from stdin before building
+  -v/--verbose       Verbose mode: print compilation status to stdout
+  --version          Show version of ruby-build
+
+For detailed information on installing Ruby versions with
+ruby-build, including a list of environment variables for adjusting
+compilation, see: https://github.com/rbenv/ruby-build#usage
+
+pi@raspberrypi:~ $ rbenv install -l
+2.5.8
+2.6.6
+2.7.1
+jruby-9.2.13.0
+maglev-1.0.0
+mruby-2.1.2
+rbx-5.0
+truffleruby-20.1.0
+truffleruby+graalvm-20.1.0
+
+Only latest stable releases for each Ruby implementation are shown.
+Use 'rbenv install --list-all' to show all local versions.
+pi@raspberrypi:~ $ rbenv install 2.7.1
+Downloading ruby-2.7.1.tar.bz2...
+-> https://cache.ruby-lang.org/pub/ruby/2.7/ruby-2.7.1.tar.bz2
+Installing ruby-2.7.1...
+
+^Z
+[1]+  Stopped                 rbenv install 2.7.1
+pi@raspberrypi:~ $ cd ~/.rbenv && src/configure && make -C src
+make: Entering directory '/home/pi/.rbenv/src'
+gcc -fPIC     -c -o realpath.o realpath.c
+gcc -shared -Wl,-soname,../libexec/rbenv-realpath.dylib  -o ../libexec/rbenv-realpath.dylib realpath.o
+make: Leaving directory '/home/pi/.rbenv/src'
+pi@raspberrypi:~/.rbenv $ rbenv install 2.7.1
+Downloading ruby-2.7.1.tar.bz2...
+-> https://cache.ruby-lang.org/pub/ruby/2.7/ruby-2.7.1.tar.bz2
+Installing ruby-2.7.1...
+^Z
+[2]+  Stopped                 rbenv install 2.7.1
+pi@raspberrypi:~/.rbenv $ sudo rbenv install 2.7.1
+sudo: rbenv: command not found
+pi@raspberrypi:~/.rbenv $ rbenv install 2.7.1
+Downloading ruby-2.7.1.tar.bz2...
+-> https://cache.ruby-lang.org/pub/ruby/2.7/ruby-2.7.1.tar.bz2
+Installed ruby-2.7.1 to /home/pi/.rbenv/versions/2.7.1
+
+pi@raspberrypi:~/.rbenv $ cd
+pi@raspberrypi:~ $ ls
+Adafruit_Python_DHT  iris-rpi  ir_remote_controll  test.py
+pi@raspberrypi:~ $ cd iris-rpi/
+pi@raspberrypi:~/iris-rpi $ ls
+py  rc.rb
+rbenv: irb: command not found
+The `irb' command exists in these Ruby versions:
+  2.7.1
+
+pi@raspberrypi:~/iris-rpi $ gem install pry
+rbenv: gem: command not found
+
+pi@raspberrypi:~/iris-rpi $ cd
+ln: failed to create symbolic link '/usr/bin/ruby': Permission denied
+pi@raspberrypi:~ $ sudo ln -s ~/.rbenv/shims/ruby /usr/bin/ruby
+pi@raspberrypi:~ $ sudo ln -s ~/.rbenv/shims/irb /usr/bin/irb
+pi@raspberrypi:~ $ cd iris-rpi/
+pi@raspberrypi:~/iris-rpi $ irb
+irb(main):001:0> require 'rc.rb'
+Traceback (most recent call last):
+        6: from /home/pi/.rbenv/versions/2.7.1/bin/irb:23:in `<main>'
+        5: from /home/pi/.rbenv/versions/2.7.1/bin/irb:23:in `load'
+        1: from /home/pi/.rbenv/versions/2.7.1/lib/ruby/2.7.0/rubygems/core_ext/kernel_require.rb:92:in `require'
+irb(main):003:0> rc_exec("light:off")
+        4: from /home/pi/.rbenv/versions/2.7.1/bin/irb:23:in `<main>'
+        3: from /home/pi/.rbenv/versions/2.7.1/bin/irb:23:in `load'
+        1: from (irb):3
+NoMethodError (undefined method `rc_exec' for main:Object)
+irb(main):004:1* def rc_exec(command)
+irb(main):005:1*   system("py/irrp #{command}")
+irb(main):006:0> end
+=> :rc_exec
+irb(main):007:0> rc_exec("light:off")
+=> nil
+irrp.py
+-bash: syntax error near unexpected token `"python3 ./py/irrp.py #{command}"'
+irb(main):001:0>   system("python3 ./py/irrp.py #{command}")
+irb(main):001:1* def rc_exec(command)
+irb(main):002:1*   system("python3 ./py/irrp.py #{command}")
+irb(main):003:0> end
+=> :rc_exec
+irb(main):004:1* def rc_exec(command)
+irb(main):006:0> end
+=> :rc_exec
+irb(main):007:0> rc_exec("light:off")
+python3: can't open file './py/irrp.py': [Errno 2] No such file or directory
+=> false
+irb(main):008:0> exit
+pi@raspberrypi:~/iris-rpi/py $ ls
+irrp.py
+pi@raspberrypi:~/iris-rpi/py $ cd ../
+pi@raspberrypi:~/iris-rpi $ ls
+py  rc.rb
+pi@raspberrypi:~/iris-rpi $ irb
+irb(main):001:0> exec(command)
+  system("python3 ./py/irrp.py #{command}")
+irb(main):001:1* def rc_exec(command)
+irb(main):002:1*   system("python3 ./py/irrp.py #{command}")
+irb(main):003:0> end
+=> :rc_exec
+irb(main):004:1* def rc_exec(command)
+irb(main):005:1*   system("python3 ./py/irrp.py #{command}")
+irb(main):006:0> end
+=> :rc_exec
+irb(main):007:0> rc_exec("light:off")
+usage: irrp.py [-h] (-p | -r) -g GPIO -f FILE [--freq FREQ] [--gap GAP]
+               [--glitch GLITCH] [--post POST] [--pre PRE] [--short SHORT]
+               [--tolerance TOLERANCE] [-v] [--no-confirm]
+               id [id ...]
+irrp.py: error: the following arguments are required: -g/--gpio, -f/--file
+=> false
+irb(main):008:0> exit
+pi@raspberrypi:~/iris-rpi $ cd
+pi@raspberrypi:~ $ cd
+Adafruit_Python_DHT/ .gnupg/              ir_remote_controll/  .rbenv/
+.cache/              iris-rpi/            .local/              .ssh/
+pi@raspberrypi:~ $ cd ir_remote_controll/
+pi@raspberrypi:~/ir_remote_controll $ ls
+codes  codes.bak  codes.bak1  codes.bak2  irrp.py
+pi@raspberrypi:~/ir_remote_controll $ cat codes
+{"ac:off": [3424, 1915, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 10808, 3424, 1915, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 398, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 398, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 10808, 3424, 1915, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 398],
+ "ac:on": [3424, 1915, 398, 504, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 398, 390, 352, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 10808, 3424, 1915, 398, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 10808, 3424, 1915, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 504, 352, 504, 352, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 352, 504, 352, 1332, 398, 504, 352, 1332, 398, 1332, 398, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 1332, 398, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 352, 504, 398],
+ "light:off": [2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 1915, 807, 886, 807, 1915, 807, 1915, 807, 886, 807, 1915, 807],
+ "light:on": [2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 105, 81925, 352, 1090, 629, 2701, 352, 2701, 352, 1915, 629, 1915, 629, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 807, 1915, 807, 1915, 807, 886, 807, 54178, 2550, 2701, 807, 886, 807, 886, 807, 886, 807, 1915, 807, 1915, 629, 1915, 629, 1915, 807, 1090, 629]}

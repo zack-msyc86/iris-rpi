@@ -68,8 +68,8 @@ g = p.add_mutually_exclusive_group(required=True)
 g.add_argument("-p", "--play",   help="play keys",   action="store_true")
 g.add_argument("-r", "--record", help="record keys", action="store_true")
 
-p.add_argument("-g", "--gpio", help="GPIO for RX/TX", required=True, type=int, default=17)
-p.add_argument("-f", "--file", help="Filename",       required=True, default='codes')
+p.add_argument("-g", "--gpio", help="GPIO for RX/TX",type=int, default=17)
+p.add_argument("-f", "--file", help="Filename", default='codes')
 
 p.add_argument('id', nargs='+', type=str, help='IR codes')
 
