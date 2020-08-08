@@ -1,7 +1,7 @@
 require 'json'
 
-def get_temp
-  p JSON.parse(`python3 ./py/am2302.py`)
+def get_temps
+  JSON.parse(`python3 ./py/am2302.py`).symbolize
 end
 
-get_temp
+p get_temps
