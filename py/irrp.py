@@ -87,11 +87,8 @@ p.add_argument("--no-confirm", help="No confirm needed", action="store_true")
 
 args = p.parse_args()
 
-print(args.id)
 GPIO       = args.gpio
-print(GPIO)
 FILE       = args.file
-print(FILE)
 GLITCH     = args.glitch
 PRE_MS     = args.pre
 POST_MS    = args.post
