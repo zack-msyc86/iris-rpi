@@ -11,7 +11,7 @@ def root():
 
 @app.route('/ir', methods=['POST'])
 def ir():
-    ir_play.playback(f"{request.json[obj]}:{request.json[command]}")
+    ir_play.playback(f"{request.json['obj']}:{request.json['command']}")
     return ""
 
 ## おまじない
