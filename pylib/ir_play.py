@@ -44,7 +44,7 @@ def carrier(gpio, frequency, micros):
       wf.append(pigpio.pulse(0, 1<<gpio, off))
    return wf
 
-def playback(commands,FILE='./codes',GPIO=17):
+def playback(commands,FILE=f'{os.getcwd()}/codes',GPIO=17):
 
     pi = pigpio.pi() # Connect to Pi.
 
