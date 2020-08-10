@@ -44,7 +44,7 @@ def carrier(gpio, frequency, micros):
       wf.append(pigpio.pulse(0, 1<<gpio, off))
    return wf
 
-def playback(commands,FILE=f'{os.getcwd()}/pylib/codes',GPIO=17):
+def playback(command,FILE=f'{os.getcwd()}/pylib/codes',GPIO=17):
 
     pi = pigpio.pi() # Connect to Pi.
 
@@ -63,53 +63,52 @@ def playback(commands,FILE=f'{os.getcwd()}/pylib/codes',GPIO=17):
     pi.wave_add_new()
     emit_time = time.time()
 
-    for arg in commands:
-        if arg in records:
+    if command in records:
 
-            code = records[arg]
+        code = records[arg]
 
-            # Create wave
+        # Create wave
 
-            marks_wid = {}
-            spaces_wid = {}
+        marks_wid = {}
+        spaces_wid = {}
 
-            wave = [0]*len(code)
+        wave = [0]*len(code)
 
-            for i in range(0, len(code)):
-                ci = code[i]
-                if i & 1: # Space
-                    if ci not in spaces_wid:
-                        pi.wave_add_generic([pigpio.pulse(0, 0, ci)])
-                        spaces_wid[ci] = pi.wave_create()
-                    wave[i] = spaces_wid[ci]
-                else: # Mark
-                    if ci not in marks_wid:
-                        wf = carrier(GPIO, FREQ, ci)
-                        pi.wave_add_generic(wf)
-                        marks_wid[ci] = pi.wave_create()
-                    wave[i] = marks_wid[ci]
+        for i in range(0, len(code)):
+            ci = code[i]
+            if i & 1: # Space
+                if ci not in spaces_wid:
+                    pi.wave_add_generic([pigpio.pulse(0, 0, ci)])
+                    spaces_wid[ci] = pi.wave_create()
+                wave[i] = spaces_wid[ci]
+            else: # Mark
+                if ci not in marks_wid:
+                    wf = carrier(GPIO, FREQ, ci)
+                    pi.wave_add_generic(wf)
+                    marks_wid[ci] = pi.wave_create()
+                wave[i] = marks_wid[ci]
 
-            delay = emit_time - time.time()
+        delay = emit_time - time.time()
 
-            if delay > 0.0:
-               time.sleep(delay)
+        if delay > 0.0:
+           time.sleep(delay)
 
-            pi.wave_chain(wave)
+        pi.wave_chain(wave)
 
-            while pi.wave_tx_busy():
-                time.sleep(0.002)
+        while pi.wave_tx_busy():
+            time.sleep(0.002)
 
-            emit_time = time.time() + GAP_S
+        emit_time = time.time() + GAP_S
 
-            for i in marks_wid:
-                pi.wave_delete(marks_wid[i])
+        for i in marks_wid:
+            pi.wave_delete(marks_wid[i])
 
-            marks_wid = {}
+        marks_wid = {}
 
-            for i in spaces_wid:
-                pi.wave_delete(spaces_wid[i])
+        for i in spaces_wid:
+            pi.wave_delete(spaces_wid[i])
 
-            spaces_wid = {}
-        else:
-            print("Id {} not found".format(arg))
+        spaces_wid = {}
+    else:
+        print("Id {} not found".format(arg))
     pi.stop() # Disconnect from Pi.
