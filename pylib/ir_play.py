@@ -65,7 +65,7 @@ def playback(command,FILE=f'{os.getcwd()}/pylib/codes',GPIO=17):
 
     if command in records:
 
-        code = records[arg]
+        code = records[command]
 
         # Create wave
 
@@ -110,5 +110,5 @@ def playback(command,FILE=f'{os.getcwd()}/pylib/codes',GPIO=17):
 
         spaces_wid = {}
     else:
-        print("Id {} not found".format(arg))
+        print("Id {} not found".format(command))
     pi.stop() # Disconnect from Pi.
